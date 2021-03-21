@@ -8,5 +8,6 @@ for key, value in per_cent.items():
 
     print(deposit)
 
+# m_dep = max(deposit)
 # print("Максимальная сумма, которую вы можете заработать" + m_dep )
 
